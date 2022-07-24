@@ -40,7 +40,7 @@ int search::linear_search_iterative(int A[m],int key,int L)
 int main()
 {
 	search X;
-	int L[9] = {1,3,5,6,7,8,9,8,6};
+	int L[9] = {1,7,5,6,3,8,9,2,4};
 	cout<<X.linear_search_iterative(L,12,9)<<endl;
 	cout<<X.rec_linear_search(L,9,9)<<endl;
 }
