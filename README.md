@@ -1,1 +1,1 @@
-# intoduction to AI
+# Intoduction to AI
